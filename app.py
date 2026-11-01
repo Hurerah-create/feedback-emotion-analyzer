@@ -13,8 +13,8 @@ st.set_page_config(page_title="Feedback Emotion Analyzer", page_icon="💬", lay
 # ---------- Links (fill the empty ones later) ----------
 LINKS = {
     "💻 GitHub Repository": "https://github.com/Hurerah-create/feedback-emotion-analyzer",
-    "📄 Project Report": "",
-    "📊 Presentation": "",
+    "📄 Project Report": "https://docs.google.com/document/d/1ALrzePsn29Koc6pLbs7yAQu3HrnZEwoMq11Lqi467Mo/edit",
+    "📊 Presentation": "https://docs.google.com/presentation/d/1kpteRRXVeDgWR9eKlwvIdESI2DEjLB6V/edit",
     "🎥 YouTube Video": "",
     "💼 LinkedIn Post": "",
     "🗂️ Dataset (GoEmotions)": "https://huggingface.co/datasets/google-research-datasets/go_emotions",
