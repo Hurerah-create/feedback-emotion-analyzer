@@ -5,8 +5,8 @@ The app reads user feedback and finds the emotion (7 classes) and the sentiment 
 
 ## Project Links
 - Live app: https://feedback-emotion-analyzer-8ef6shsjrpcxzlkaz7ridr.streamlit.app/
-- Project report: ADD LATER
-- Presentation: ADD LATER
+- Project report: https://docs.google.com/document/d/1ALrzePsn29Koc6pLbs7yAQu3HrnZEwoMq11Lqi467Mo/edit
+- Presentation: https://docs.google.com/presentation/d/1kpteRRXVeDgWR9eKlwvIdESI2DEjLB6V/edit
 - YouTube video: ADD LATER
 - LinkedIn post: ADD LATER
 - Dataset: https://huggingface.co/datasets/google-research-datasets/go_emotions
